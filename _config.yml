@@ -56,7 +56,7 @@ widgets:
 - tagcloud
 - links
 - github-card
-- rss
+## - rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
@@ -79,7 +79,7 @@ index:
 
 close_aside: false  #close sidebar in post page if true
 mathjax: true      #enable mathjax if true
-share_to: true #enable share-to buttons if true
+share_to: false #enable share-to buttons if true
 
 #### Author information
 author:
